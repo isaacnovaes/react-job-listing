@@ -1,0 +1,29 @@
+.filterItem {
+	display: flex;
+	align-items: center;
+	column-gap: 10px;
+	color: var(--unsaturated-dark-cyan);
+	font-weight: 700;
+	font-size: calc(var(--medium) * 0.7);
+	background-color: var(--light-grayish-cyan);
+	border-radius: 8px;
+	overflow: hidden;
+	transition: 0.3s;
+}
+.filterItem p {
+	margin-left: 5px;
+	font-weight: 700;
+}
+
+.filterItem span {
+	padding: 5px;
+	align-self: stretch;
+	padding: 5px;
+	background-color: var(--unsaturated-dark-cyan);
+	transition: 0.5s;
+}
+
+.filterItem span:hover {
+	cursor: pointer;
+	background-color: black;
+}

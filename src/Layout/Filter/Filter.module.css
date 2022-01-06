@@ -1,0 +1,36 @@
+.filter {
+	width: 90%;
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 20px;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	column-gap: 10px;
+	background-color: white;
+	border-radius: 5px;
+	box-shadow: 1px 8px 20px hsla(180, 29%, 50%, 0.3);
+	transform: translateY(-20px);
+}
+
+.filter > div {
+	width: 90%;
+	display: flex;
+	flex-wrap: wrap;
+	gap: 10px;
+}
+
+.filter button {
+	appearance: none;
+	color: var(--dark-grayish-cyan);
+	text-decoration: none;
+    padding: 10px;
+	background: none;
+	border: none;
+	transition: 0.5s;
+}
+.filter button:hover {
+	text-decoration: underline;
+	cursor: pointer;
+	color: var(--unsaturated-dark-cyan);
+}
