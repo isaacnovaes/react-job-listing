@@ -1,5 +1,7 @@
 # Frontend Mentor - Job listings with filtering solution
 
+[Live project](https://react-job-listing-isaac.netlify.app)
+
 ![Project preview](./design/desktop-preview.jpg)
 
 This is a solution to the [Job listings with filtering challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/job-listings-with-filtering-ivstIPCt). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
@@ -55,7 +57,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Live site URL](https://react-job-listing-isaac.netlify.app)
 
 ## My process
 
